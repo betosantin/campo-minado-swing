@@ -68,7 +68,7 @@ public class BotaoCampo extends JButton implements CampoObserver, MouseListener 
 	private void aplicarEstiloMarcar() {
 		setBackground(BG_MARCAR);
 		setForeground(Color.BLACK);
-		setText("M");
+		setText("?");
 	}
 
 	private void aplicarEstiloAbrir() {
